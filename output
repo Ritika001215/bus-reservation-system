@@ -1,0 +1,128 @@
+  ***SIMPLE BUS RESERVATION SYSTEM***
+
+                        1. Add New Bus
+                        2. Make Reservation
+                         3. Cancel Reservation
+                        4. View Reservation
+                        5. Show Available Buses
+                        6. Exit
+                        Enter your Choice: 1
+Enter Bus Number: 1001
+
+Enter Driver's Name: rakesh
+
+Arrival Time: 1:00pm
+
+Departure Time: 5:00pm
+
+From: chandigarh
+
+To: delhi
+
+New Bus Added Successfully.
+
+
+                ***SIMPLE BUS RESERVATION SYSTEM***
+
+                        1. Add New Bus
+                        2. Make Reservation
+                         3. Cancel Reservation
+                        4. View Reservation
+                        5. Show Available Buses
+                        6. Exit
+                        Enter your Choice: 2
+Enter Bus Index (0 to 0): 0
+Seat Availability for Bus Number: 1001
+1    .Empty     2    .Empty     3    .Empty     4    .Empty     
+5    .Empty     6    .Empty     7    .Empty     8    .Empty
+9    .Empty     10   .Empty     11   .Empty     12   .Empty     
+13   .Empty     14   .Empty     15   .Empty     16   .Empty
+17   .Empty     18   .Empty     19   .Empty     20   .Empty
+21   .Empty     22   .Empty     23   .Empty     24   .Empty
+25   .Empty     26   .Empty     27   .Empty     28   .Empty
+29   .Empty     30   .Empty     31   .Empty     32   .Empty
+
+There are 32 seats available in Bus Number: 1001
+Enter Seat Number for Reservation: 1
+Enter Passenger's Name: sohan
+Reservation Successful!
+
+
+                ***SIMPLE BUS RESERVATION SYSTEM***
+
+                        1. Add New Bus
+                        2. Make Reservation
+                         3. Cancel Reservation
+                        4. View Reservation
+                        5. Show Available Buses
+                        6. Exit
+                        Enter your Choice: 3
+Enter Bus Index (0 to 0): 0
+Seat Availability for Bus Number: 1001
+1    .sohan         2    .Empty     3    .Empty     4    .Empty     
+5    .Empty     6    .Empty     7    .Empty     8    .Empty
+9    .Empty     10   .Empty     11   .Empty     12   .Empty     
+13   .Empty     14   .Empty     15   .Empty     16   .Empty     
+17   .Empty     18   .Empty     19   .Empty     20   .Empty
+21   .Empty     22   .Empty     23   .Empty     24   .Empty     
+25   .Empty     26   .Empty     27   .Empty     28   .Empty
+29   .Empty     30   .Empty     31   .Empty     32   .Empty
+
+There are 31 seats available in Bus Number: 1001
+Enter Seat Number to Cancel Reservation: 1
+Reservation for seat 1 is cancelled.
+
+
+                ***SIMPLE BUS RESERVATION SYSTEM***
+
+                        1. Add New Bus
+                        2. Make Reservation
+                         3. Cancel Reservation
+                        4. View Reservation
+                        5. Show Available Buses
+                        6. Exit
+                        Enter your Choice: 4
+Enter Bus Index (0 to 0): 0
+********************************************************************************
+Bus Number:     1001
+Driver:         rakesh              Arrival Time:   1:00pm       Departure Time:5:00pm
+From:           chandigarh              To:             delhi
+********************************************************************************
+Seat Availability for Bus Number: 1001
+1    .Empty     2    .Empty     3    .Empty     4    .Empty
+5    .Empty     6    .Empty     7    .Empty     8    .Empty
+9    .Empty     10   .Empty     11   .Empty     12   .Empty
+13   .Empty     14   .Empty     15   .Empty     16   .Empty     
+17   .Empty     18   .Empty     19   .Empty     20   .Empty
+21   .Empty     22   .Empty     23   .Empty     24   .Empty
+25   .Empty     26   .Empty     27   .Empty     28   .Empty
+29   .Empty     30   .Empty     31   .Empty     32   .Empty
+
+There are 32 seats available in Bus Number: 1001
+
+
+                ***SIMPLE BUS RESERVATION SYSTEM***
+
+                        1. Add New Bus
+                        2. Make Reservation
+                         3. Cancel Reservation
+                        4. View Reservation
+                        5. Show Available Buses
+                        6. Exit
+                        Enter your Choice: 5
+********************************************************************************
+Available Buses:
+Bus Number: 1001        Driver: rakesh       From: chandigarh To: delhi
+________________________________________________________________________________
+
+
+                ***SIMPLE BUS RESERVATION SYSTEM***
+
+                        1. Add New Bus
+                        2. Make Reservation
+                         3. Cancel Reservation
+                        4. View Reservation
+                        5. Show Available Buses
+                        6. Exit
+                        Enter your Choice: 6
+Exiting the program. Thank you!
